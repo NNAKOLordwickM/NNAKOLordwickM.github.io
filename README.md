@@ -1,3 +1,3 @@
 # NNAKOLordwickM.github.io
 project by Lodwick.
-This is mu first time on github
+This is my first time on github
